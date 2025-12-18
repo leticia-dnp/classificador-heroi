@@ -1,0 +1,4 @@
+Este projeto foi desenvolvido como parte do Bootcamp Santander de Lógica de Programação. 
+Ele tem como objetivo praticar e consolidar os principais conceitos iniciais da programação, como variáveis, operadores, estruturas de decisão e controle de fluxo.
+Utilizando a linguagem JavaScript, o projeto consiste em um classificador de nível de herói, onde é informado o nome do personagem e sua quantidade de experiência. 
+A partir desse valor, o sistema determina automaticamente o nível correspondente, exibindo uma mensagem final com o nome do herói e sua classificação. O intuito principal do projeto é reforçar o raciocínio lógico, a leitura de condições e a tomada de decisões no código, servindo como um exercício introdutório para o desenvolvimento de soluções simples e estruturadas, além de contribuir para a construção de portfólio acadêmico e prático.
